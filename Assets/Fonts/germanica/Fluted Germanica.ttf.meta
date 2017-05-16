@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2584a74795bcca2439ef7ea88a23c308
+timeCreated: 1489528471
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FlutedGermanica
+  fontNames:
+  - FlutedGermanica
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
